@@ -45,7 +45,7 @@ print('Using Support Vector Classifier:'+str(predict_linear_svc))
 print ('accuracy of DTC,', accuracy_score(Q,predict_dtc))
 print ('accuracy of ExTC,' ,accuracy_score(Q,predict_etx))
 print ('accuracy of NB,', accuracy_score(Q,predict_NB))
-print ('accuracy of SCV,' ,accuracy_score(Q,predict_svc))
+print ('accuracy of SVC,' ,accuracy_score(Q,predict_svc))
 print ('accuracy of LinearSVC,', accuracy_score(Q,predict_linear_svc))
 
 
