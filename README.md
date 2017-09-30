@@ -14,5 +14,11 @@ Using Scikit-Learn I was able to determine the accuracy of prediction by compari
 ### Support Vector Classifier 
 ### Linear Support Vector Classifier
 
-![ScreenShot](ResultScreenShot.jpg)
+Result Below shows that Extra Tree Classifier was more accurate of the five tried.
+
+
+![ScreenShot](ResultScreenShot.png)
+
+
+Fork the project...can you optimize to >> 0.96 ?
 
